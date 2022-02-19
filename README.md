@@ -16,11 +16,11 @@ FEATURES:
  * Loney Network is safe, compatible and easy to use. 
  
 
-*his is a small project for fun/personal use.
+*This is a small project for fun/personal use.
 DM for credit/removal (looney.network.contact@gmail.com)
 
 
-*lease also note: As a shortcut some code has been used from either other projects of mine or borrowed from other open sourced, public domain or MIT licensed projects.
+*Please also note: As a shortcut some code has been used from either other projects of mine or borrowed from other open sourced, public domain or MIT licensed projects.
 *Looney Network is currently in beta. Please feel free to contact me with comments, questions or concerns.
 
 Home Page: https://looney-network.github.io/TV/
